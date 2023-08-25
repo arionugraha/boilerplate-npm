@@ -3,6 +3,7 @@
 	"description": "A project that's going to skyrocket me up to be an super, super capable developer.",
 	"keywords": ["freecodecamp", "node", "npm", "express"],
 	"author": "Ario Nugraha Ramadhanu",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
